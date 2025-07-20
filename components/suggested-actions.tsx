@@ -20,24 +20,24 @@ function PureSuggestedActions({
 }: SuggestedActionsProps) {
   const suggestedActions = [
     {
-      title: 'What are the advantages',
-      label: 'of using Next.js?',
-      action: 'What are the advantages of using Next.js?',
+      title: '澳門有什麼好玩？',
+      label: '想知澳門有什麼地方值得去？',
+      action: '你可以介紹下澳門有什麼好玩的地方或者特色景點給我參考下嗎？',
     },
     {
-      title: 'Write code to',
-      label: `demonstrate djikstra's algorithm`,
-      action: `Write code to demonstrate djikstra's algorithm`,
+      title: '怎樣讀書才有效？',
+      label: '想學習得快些，有沒有方法？',
+      action: '我時常覺得讀書好慢，想問下有沒有實用的學習方法可以幫我提升效率？',
     },
     {
-      title: 'Help me write an essay',
-      label: `about silicon valley`,
-      action: `Help me write an essay about silicon valley`,
+      title: '幫我寫篇關於澳門的文章',
+      label: '要簡單些，適合學生用。',
+      action: '可不可以幫我寫一篇簡單介紹澳門的短文，適合學生交功課用？',
     },
     {
-      title: 'What is the weather',
-      label: 'in San Francisco?',
-      action: 'What is the weather in San Francisco?',
+      title: '今日澳門天氣怎麼樣？',
+      label: '想知天氣要帶不帶遮。',
+      action: '你可以告訴我今日澳門天氣怎麼樣，要帶不帶遮出街？',
     },
   ];
 
